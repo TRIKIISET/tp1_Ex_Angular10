@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "TP1EX"
+    }
+  },
+  "defaultProject": "TP1EX",
+  "cli": {
+    "analytics": false
+  }
 }
